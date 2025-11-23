@@ -65,15 +65,6 @@ Some ideas to extend this project:
 - Add input validation and error handling.
 - Add an option to update the price of an existing item.
 - Convert it into a GUI or web-based application in the future.
-
-Here are images demonstrating the functioning of the code:
-<img width="622" height="171" alt="Screenshot 2025-11-23 at 4 34 02 PM" src="https://github.com/user-attachments/assets/c8fbe09b-c08f-45bc-b907-ccd3c8d43e39" />
-<img width="395" height="548" alt="Screenshot 2025-11-23 at 4 34 22 PM" src="https://github.com/user-attachments/assets/1aeb7065-91be-41cc-91a2-e8ad9d258c57" />
-
-<img width="558" height="533" alt="Screenshot 2025-11-23 at 4 35 17 PM" src="https://github.com/user-attachments/assets/24164f3e-1d71-4bef-8388-26b15a8f3721" />
-
-<img width="440" height="563" alt="Screenshot 2025-11-23 at 4 35 38 PM" src="https://github.com/user-attachments/assets/0806dbde-5af1-4a95-acb1-b7251244cb6c" />
-
 ---
 
 ## License
